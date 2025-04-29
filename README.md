@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">Im a Junior derveloper</h3>
+<h3 align="center">Im a Junior developer</h3>
 
 - 🌱 I’m currently learning **Python, Github, Yaml**
 
